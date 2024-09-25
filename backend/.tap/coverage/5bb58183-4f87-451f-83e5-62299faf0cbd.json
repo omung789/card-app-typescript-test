@@ -1,0 +1,881 @@
+{
+  "result": [
+    {
+      "scriptId": "316",
+      "url": "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/server.ts",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 15060,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "__awaiter",
+          "ranges": [
+            {
+              "startOffset": 58,
+              "endOffset": 693,
+              "count": 7
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "adopt",
+          "ranges": [
+            {
+              "startOffset": 109,
+              "endOffset": 217,
+              "count": 7
+            },
+            {
+              "startOffset": 159,
+              "endOffset": 166,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 175,
+              "endOffset": 213,
+              "count": 7
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 254,
+              "endOffset": 689,
+              "count": 7
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "fulfilled",
+          "ranges": [
+            {
+              "startOffset": 291,
+              "endOffset": 382,
+              "count": 7
+            },
+            {
+              "startOffset": 356,
+              "endOffset": 380,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "rejected",
+          "ranges": [
+            {
+              "startOffset": 391,
+              "endOffset": 485,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "step",
+          "ranges": [
+            {
+              "startOffset": 494,
+              "endOffset": 604,
+              "count": 14
+            },
+            {
+              "startOffset": 530,
+              "endOffset": 553,
+              "count": 7
+            },
+            {
+              "startOffset": 554,
+              "endOffset": 601,
+              "count": 7
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "__generator",
+          "ranges": [
+            {
+              "startOffset": 743,
+              "endOffset": 2599,
+              "count": 7
+            },
+            {
+              "startOffset": 935,
+              "endOffset": 945,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "sent",
+          "ranges": [
+            {
+              "startOffset": 800,
+              "endOffset": 853,
+              "count": 7
+            },
+            {
+              "startOffset": 827,
+              "endOffset": 838,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "g.<computed>",
+          "ranges": [
+            {
+              "startOffset": 1096,
+              "endOffset": 1123,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "verb",
+          "ranges": [
+            {
+              "startOffset": 1133,
+              "endOffset": 1199,
+              "count": 21
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1159,
+              "endOffset": 1196,
+              "count": 14
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "step",
+          "ranges": [
+            {
+              "startOffset": 1204,
+              "endOffset": 2597,
+              "count": 14
+            },
+            {
+              "startOffset": 1239,
+              "endOffset": 1294,
+              "count": 0
+            },
+            {
+              "startOffset": 1312,
+              "endOffset": 1340,
+              "count": 7
+            },
+            {
+              "startOffset": 1329,
+              "endOffset": 1339,
+              "count": 0
+            },
+            {
+              "startOffset": 1345,
+              "endOffset": 2501,
+              "count": 34
+            },
+            {
+              "startOffset": 1376,
+              "endOffset": 1477,
+              "count": 0
+            },
+            {
+              "startOffset": 1478,
+              "endOffset": 1509,
+              "count": 0
+            },
+            {
+              "startOffset": 1511,
+              "endOffset": 1520,
+              "count": 0
+            },
+            {
+              "startOffset": 1547,
+              "endOffset": 1573,
+              "count": 0
+            },
+            {
+              "startOffset": 1619,
+              "endOffset": 1626,
+              "count": 14
+            },
+            {
+              "startOffset": 1627,
+              "endOffset": 1649,
+              "count": 14
+            },
+            {
+              "startOffset": 1666,
+              "endOffset": 1722,
+              "count": 7
+            },
+            {
+              "startOffset": 1739,
+              "endOffset": 1788,
+              "count": 0
+            },
+            {
+              "startOffset": 1805,
+              "endOffset": 1854,
+              "count": 0
+            },
+            {
+              "startOffset": 1871,
+              "endOffset": 2380,
+              "count": 13
+            },
+            {
+              "startOffset": 1935,
+              "endOffset": 1953,
+              "count": 3
+            },
+            {
+              "startOffset": 1955,
+              "endOffset": 1986,
+              "count": 10
+            },
+            {
+              "startOffset": 1988,
+              "endOffset": 2008,
+              "count": 7
+            },
+            {
+              "startOffset": 2008,
+              "endOffset": 2086,
+              "count": 6
+            },
+            {
+              "startOffset": 2052,
+              "endOffset": 2085,
+              "count": 3
+            },
+            {
+              "startOffset": 2088,
+              "endOffset": 2152,
+              "count": 3
+            },
+            {
+              "startOffset": 2152,
+              "endOffset": 2169,
+              "count": 0
+            },
+            {
+              "startOffset": 2171,
+              "endOffset": 2205,
+              "count": 0
+            },
+            {
+              "startOffset": 2205,
+              "endOffset": 2249,
+              "count": 3
+            },
+            {
+              "startOffset": 2251,
+              "endOffset": 2293,
+              "count": 0
+            },
+            {
+              "startOffset": 2293,
+              "endOffset": 2324,
+              "count": 3
+            },
+            {
+              "startOffset": 2324,
+              "endOffset": 2336,
+              "count": 0
+            },
+            {
+              "startOffset": 2336,
+              "endOffset": 2380,
+              "count": 3
+            },
+            {
+              "startOffset": 2394,
+              "endOffset": 2445,
+              "count": 17
+            },
+            {
+              "startOffset": 2445,
+              "endOffset": 2478,
+              "count": 0
+            },
+            {
+              "startOffset": 2478,
+              "endOffset": 2479,
+              "count": 17
+            },
+            {
+              "startOffset": 2501,
+              "endOffset": 2525,
+              "count": 7
+            },
+            {
+              "startOffset": 2525,
+              "endOffset": 2537,
+              "count": 0
+            },
+            {
+              "startOffset": 2537,
+              "endOffset": 2567,
+              "count": 7
+            },
+            {
+              "startOffset": 2568,
+              "endOffset": 2576,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "__importDefault",
+          "ranges": [
+            {
+              "startOffset": 2657,
+              "endOffset": 2738,
+              "count": 3
+            },
+            {
+              "startOffset": 2709,
+              "endOffset": 2714,
+              "count": 1
+            },
+            {
+              "startOffset": 2715,
+              "endOffset": 2735,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3098,
+              "endOffset": 3513,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3163,
+              "endOffset": 3509,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3228,
+              "endOffset": 3505,
+              "count": 2
+            },
+            {
+              "startOffset": 3284,
+              "endOffset": 3346,
+              "count": 1
+            },
+            {
+              "startOffset": 3359,
+              "endOffset": 3489,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3547,
+              "endOffset": 4173,
+              "count": 3
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3612,
+              "endOffset": 4169,
+              "count": 3
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 3672,
+              "endOffset": 4165,
+              "count": 6
+            },
+            {
+              "startOffset": 3728,
+              "endOffset": 3859,
+              "count": 3
+            },
+            {
+              "startOffset": 3872,
+              "endOffset": 4149,
+              "count": 3
+            },
+            {
+              "startOffset": 3947,
+              "endOffset": 4073,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 4208,
+              "endOffset": 5414,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 4273,
+              "endOffset": 5410,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 4365,
+              "endOffset": 5406,
+              "count": 3
+            },
+            {
+              "startOffset": 4421,
+              "endOffset": 4835,
+              "count": 1
+            },
+            {
+              "startOffset": 4610,
+              "endOffset": 4650,
+              "count": 0
+            },
+            {
+              "startOffset": 4792,
+              "endOffset": 4804,
+              "count": 0
+            },
+            {
+              "startOffset": 4848,
+              "endOffset": 4983,
+              "count": 1
+            },
+            {
+              "startOffset": 4996,
+              "endOffset": 5136,
+              "count": 1
+            },
+            {
+              "startOffset": 5149,
+              "endOffset": 5347,
+              "count": 0
+            },
+            {
+              "startOffset": 5360,
+              "endOffset": 5390,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 5454,
+              "endOffset": 6161,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 5519,
+              "endOffset": 6157,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 5574,
+              "endOffset": 6153,
+              "count": 3
+            },
+            {
+              "startOffset": 5630,
+              "endOffset": 5779,
+              "count": 1
+            },
+            {
+              "startOffset": 5792,
+              "endOffset": 5928,
+              "count": 1
+            },
+            {
+              "startOffset": 5941,
+              "endOffset": 6094,
+              "count": 0
+            },
+            {
+              "startOffset": 6107,
+              "endOffset": 6137,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 6198,
+              "endOffset": 7517,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 6263,
+              "endOffset": 7513,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 6336,
+              "endOffset": 7509,
+              "count": 3
+            },
+            {
+              "startOffset": 6392,
+              "endOffset": 6894,
+              "count": 1
+            },
+            {
+              "startOffset": 6593,
+              "endOffset": 6637,
+              "count": 0
+            },
+            {
+              "startOffset": 6817,
+              "endOffset": 6863,
+              "count": 0
+            },
+            {
+              "startOffset": 6907,
+              "endOffset": 7141,
+              "count": 1
+            },
+            {
+              "startOffset": 7154,
+              "endOffset": 7290,
+              "count": 1
+            },
+            {
+              "startOffset": 7303,
+              "endOffset": 7450,
+              "count": 0
+            },
+            {
+              "startOffset": 7463,
+              "endOffset": 7493,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "525",
+      "url": "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/db.ts",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 927,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 627015.257666,
+  "source-map-cache": {
+    "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/server.ts": {
+      "lineLengths": [
+        13,
+        90,
+        112,
+        64,
+        99,
+        102,
+        118,
+        78,
+        7,
+        2,
+        74,
+        197,
+        160,
+        70,
+        23,
+        70,
+        55,
+        169,
+        52,
+        28,
+        46,
+        72,
+        65,
+        65,
+        24,
+        128,
+        106,
+        89,
+        87,
+        42,
+        43,
+        13,
+        39,
+        66,
+        89,
+        5,
+        2,
+        72,
+        62,
+        2,
+        62,
+        24,
+        52,
+        55,
+        44,
+        42,
+        44,
+        106,
+        21,
+        44,
+        27,
+        74,
+        19,
+        41,
+        41,
+        38,
+        9,
+        7,
+        7,
+        109,
+        16,
+        44,
+        27,
+        72,
+        49,
+        20,
+        19,
+        36,
+        31,
+        106,
+        17,
+        36,
+        38,
+        9,
+        7,
+        7,
+        110,
+        48,
+        44,
+        27,
+        19,
+        40,
+        39,
+        79,
+        61,
+        65,
+        53,
+        33,
+        29,
+        19,
+        42,
+        84,
+        19,
+        45,
+        45,
+        40,
+        19,
+        36,
+        39,
+        72,
+        40,
+        42,
+        9,
+        7,
+        7,
+        115,
+        11,
+        44,
+        27,
+        19,
+        42,
+        98,
+        19,
+        26,
+        60,
+        40,
+        19,
+        31,
+        72,
+        40,
+        42,
+        9,
+        7,
+        7,
+        112,
+        29,
+        44,
+        27,
+        19,
+        44,
+        43,
+        83,
+        65,
+        69,
+        87,
+        67,
+        29,
+        19,
+        42,
+        64,
+        39,
+        53,
+        24,
+        19,
+        26,
+        60,
+        40,
+        19,
+        31,
+        66,
+        40,
+        42,
+        9,
+        7,
+        7,
+        7540
+      ],
+      "data": {
+        "version": 3,
+        "file": "C:/Users/omung/OneDrive - University College London/Coding Projects/card-app-typescript-test/backend/src/server.ts",
+        "sources": [
+          "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/server.ts"
+        ],
+        "names": [],
+        "mappings": "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",
+        "sourcesContent": [
+          "import fastify from \"fastify\";\r\nimport cors from \"@fastify/cors\";\r\nimport { Entry } from \"@prisma/client\";\r\nimport Prisma from \"./db\";\r\n\r\nexport const server = fastify();\r\n\r\nserver.register(cors, {});\r\n\r\nserver.get<{ Reply: Entry[] }>(\"/get/\", async (req, reply) => {\r\n  const dbAllEntries = await Prisma.entry.findMany({});\r\n  reply.send(dbAllEntries);\r\n});\r\n\r\nserver.get<{ Body: Entry; Params: { id: string } }>(\r\n  \"/get/:id\",\r\n  async (req, reply) => {\r\n    const dbEntry = await Prisma.entry.findUnique({\r\n      where: { id: req.params.id },\r\n    });\r\n    if (!dbEntry) {\r\n      reply.status(500).send({ msg: `Error finding entry with id ${req.params.id}` });\r\n    }\r\n    reply.send(dbEntry);\r\n  }\r\n);\r\n\r\nserver.post<{ Body: Entry }>(\"/create/\", async (req, reply) => {\r\n  let newEntryBody = req.body;\r\n  newEntryBody.created_at\r\n    ? (newEntryBody.created_at = new Date(req.body.created_at))\r\n    : (newEntryBody.created_at = new Date());\r\n  \r\n  newEntryBody.scheduled_at = req.body.scheduled_at\r\n    ? new Date(req.body.scheduled_at)\r\n    : new Date();\r\n  try {\r\n    const createdEntryData = await Prisma.entry.create({ data: req.body });\r\n    reply.send(createdEntryData);\r\n  } catch (error) {\r\n    console.error(error);\r\n    reply.status(500).send({ msg: \"Error creating entry\" });\r\n  }\r\n});\r\n\r\nserver.delete<{ Params: { id: string } }>(\"/delete/:id\", async (req, reply) => {\r\n  try {\r\n    await Prisma.entry.delete({ where: { id: req.params.id } });\r\n    reply.send({ msg: \"Deleted successfully\" });\r\n  } catch {\r\n    reply.status(500).send({ msg: \"Error deleting entry\" });\r\n  }\r\n});\r\n\r\nserver.put<{ Params: { id: string }; Body: Entry }>(\r\n  \"/update/:id\",\r\n  async (req, reply) => {\r\n    let updatedEntryBody = req.body;\r\n    updatedEntryBody.created_at\r\n      ? (updatedEntryBody.created_at = new Date(req.body.created_at))\r\n      : (updatedEntryBody.created_at = new Date());\r\n    updatedEntryBody.scheduled_at = req.body.scheduled_at\r\n      ? (updatedEntryBody.scheduled_at = new Date(req.body.scheduled_at))\r\n      : (updatedEntryBody.scheduled_at = new Date());\r\n    try {\r\n      await Prisma.entry.update({\r\n        data: req.body,\r\n        where: { id: req.params.id },\r\n      });\r\n      reply.send({ msg: \"Updated successfully\" });\r\n    } catch {\r\n      reply.status(500).send({ msg: \"Error updating\" });\r\n    }\r\n  }\r\n);\r\n\r\n\r\n"
+        ],
+        "sourceRoot": ""
+      }
+    },
+    "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/db.ts": {
+      "lineLengths": [
+        13,
+        62,
+        41,
+        41,
+        25,
+        740
+      ],
+      "data": {
+        "version": 3,
+        "file": "C:/Users/omung/OneDrive - University College London/Coding Projects/card-app-typescript-test/backend/src/db.ts",
+        "sources": [
+          "file:///C:/Users/omung/OneDrive%20-%20University%20College%20London/Coding%20Projects/card-app-typescript-test/backend/src/db.ts"
+        ],
+        "names": [],
+        "mappings": ";;AAAA,yCAA8C;AAE9C,IAAM,MAAM,GAAG,IAAI,qBAAY,EAAE,CAAC;AAElC,kBAAe,MAAM,CAAC",
+        "sourcesContent": [
+          "import { PrismaClient } from \"@prisma/client\";\r\n\r\nconst Prisma = new PrismaClient();\r\n\r\nexport default Prisma;\r\n"
+        ],
+        "sourceRoot": ""
+      }
+    }
+  }
+}

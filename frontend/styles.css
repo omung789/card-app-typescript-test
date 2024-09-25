@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-mode{
+    background-color: #121212;
+  }
+  
+  /* Dark mode toggle button settings*/
+  #theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; 
+    color: white;              
+    border: none;              
+    border-radius: 5px;        
+    cursor: pointer;           
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: background-color 0.3s ease;
+  }
+  
+  #theme-toggle:hover {
+    background-color: #45a049;
+  }
+  

@@ -7,12 +7,18 @@
     "format": "prettier --ignore-path .prettierignore --write ."
   },
   "devDependencies": {
+    "@types/tap": "^15.0.12",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
     "prettier": "^2.8.8",
-    "prettier-plugin-organize-imports": "^3.2.2"
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "prisma": "^5.19.1",
+    "tap": "^21.0.1"
   },
   "lint-staged": {
     "**/*": "prettier --ignore-path .prettierignore --ignore-unknown --write"
+  },
+  "dependencies": {
+    "fastify": "^5.0.0"
   }
 }

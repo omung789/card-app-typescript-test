@@ -1,0 +1,41 @@
+TAP version 14
+# Subtest: Create a new entry
+    ok 1 - Title should match
+    1..1
+ok 1 - Create a new entry # time=351.843ms
+
+# Subtest: Get all entries
+    ok 1 - Should return status 200
+    ok 2 - Response should be an array
+    1..2
+ok 2 - Get all entries # time=7.236ms
+
+# Subtest: Get specific entry
+    ok 1 - Should return status 200
+    ok 2 - Title should match
+    1..2
+ok 3 - Get specific entry # time=9.377ms
+
+# Subtest: Update entry
+    ok 1 - Should return status 200
+    ok 2 - Message should match
+    ok 3 - Title should match
+    ok 4 - Description should match
+    ok 5 - Created at should match
+    ok 6 - Scheduled at should match
+    1..6
+ok 4 - Update entry # time=24.762ms
+
+# Subtest: Delete entry
+    ok 1 - Should return status 200
+    ok 2 - Message should match
+    1..2
+ok 5 - Delete entry # time=21.922ms
+
+# Subtest: Get entry that doesnt exist
+    ok 1 - Should return status 500
+    ok 2 - Message should match
+    1..2
+ok 6 - Get entry that doesnt exist # time=11.361ms
+
+1..6
